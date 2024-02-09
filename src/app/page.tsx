@@ -2,7 +2,7 @@ import Link from "next/link";
 import Footer from "~/components/Footer";
 import Navbar from "~/components/Navbar";
 
-export default function HomePage() {
+export default function Posts() {
   return (
     <main >
       <div className="flex flex-col items-center pt-8">
@@ -19,7 +19,7 @@ export default function HomePage() {
                 Jones Doe
               </div>
               <div className="text-sm leading-5 text-zinc-500">
-                Collaborator & Editor
+                Collaborator {"&"} Editor
               </div>
             </div>
           </div>

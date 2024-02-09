@@ -34,7 +34,7 @@ export default function HomePage() {
             Traveling is an enriching experience that opens up new horizons, exposes
             us to different cultures, and creates memories that last a lifetime.
             However, traveling can also be stressful and overwhelming, especially if
-            you don't plan and prepare adequately. In this blog article, we'll
+            you do not plan and prepare adequately. In this blog article, we will
             explore tips and tricks for a memorable journey and how to make the most
             of your travels.
             <br />
@@ -46,10 +46,10 @@ export default function HomePage() {
             making connections and showing respect.
             <br />
             <br />
-            Finally, don't forget to capture memories of your journey. Whether it's
+            Finally, do not forget to capture memories of your journey. Whether it is
             through photographs, journaling, or souvenirs, preserving the moments
             and experiences of your travels can bring joy and nostalgia for years to
-            come. However, it's also essential to be present in the moment and not
+            come. However, it is also essential to be present in the moment and not
             let technology distract you from the beauty of your surroundings.
           </div>
           <div className="flex gap-5 justify-between pr-5 mt-5 text-sm font-medium leading-5 text-white whitespace-nowrap">
